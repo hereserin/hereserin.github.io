@@ -1,0 +1,11 @@
+.skills-icons {
+  display: flex;
+  width: 25em;
+}
+
+.skills-icons i {
+  /* flex-shrink: 1; */
+  font-size: 5em;
+  margin: 15px;
+  flex-wrap: wrap;
+}
