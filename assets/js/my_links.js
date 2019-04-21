@@ -2,8 +2,7 @@
 const myGitHub = "https://github.com/hereserin";
 const myLinkedIn = "https://www.linkedin.com/in/erin-e-m/";
 const myAngelList = "https://angel.co/erin-marshall-1";
-const myResume =
-  "https://drive.google.com/file/d/1XlHBgX2s0fYFS0_oArEsr2uArteAH48X/view";
+const myResume = "http://www.erin-e-marshall.com/assets/resume.pdf";
 
 // PROJECTS:
 const liveOvalTable = "https://ovaltable.herokuapp.com/#/";
